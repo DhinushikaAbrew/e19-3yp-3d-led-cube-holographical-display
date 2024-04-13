@@ -55,7 +55,7 @@ Simply, user can get creative and define their usage of the cube.
 
 ## Start Using
 
-- Our user manual can be found here. It will guide through the entire process of using the cube with integrated social media community.
+- Our user manual can be found here. It will guide through the entire process of using the cube with integrated social media community and the web platform.
 
 ## Getting Started with Development
 
