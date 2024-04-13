@@ -1,9 +1,37 @@
 <div align = "center">
-  <image src="https://github.com/cepdnaclk/e19-3yp-3d-led-cube-holographical-display/blob/main/docs/images/logo-ex.png" alt ="">
-  <h1 align="center">3D LED CUBE HOLOGRAPHIC DISPLAY</h1>
+  <image src="code/frontend/public/assets/logo.png" alt ="" width="100px" height="100px">
+  <h1 align="center">HoloCube</h1>
 </div>
 
-___
+
+<h4 align="center"> 3D LED Holographic display 🏥 | MERN | 3D object vizualization + Maniopulation </h4>
+
+<div align="center">
+    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/issues">
+        <img src="https://img.shields.io/github/issues/cepdnaclk/e19-3yp-3d-led-cube-holographical-display" alt="GitHub issues">
+    </a>
+    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/pulls">
+        <img src="https://img.shields.io/github/issues-pr/cepdnaclk/e19-3yp-3d-led-cube-holographical-display" alt="GitHub pull requests">
+    </a>
+    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/releases">
+        <img src="https://img.shields.io/github/downloads/cepdnaclk/e19-3yp-3d-led-cube-holographical-display/total" alt="GitHub downloads">
+    </a>
+    <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/releases">
+        <img src="https://img.shields.io/github/v/release/cepdnaclk/e19-3yp-3d-led-cube-holographical-display" alt="GitHub release">
+    </a>
+</div>
+
+
+## 📜 Table of Content
+
+<ol style="list-style-type: decimal;">
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#start-using">Start Using</a></li>
+  <li><a href="#contributors">Contributors</a></li>
+</ol>
 
 ## Introduction
 
@@ -15,8 +43,7 @@ Unlock the potential of our 3D LED holographic display with these standout featu
 - Effortlessly showcase your chosen 3D object files, transforming them into captivating visual experiences.
 - Bring your content to life with the ability to play simple animations.
 - Immerse yourself in inbuilt interactive games for a dynamic and engaging experience.
-- Enjoy seamless touch control for intuitive navigation.
-- Stay connected globally—our display is cloud-enabled, allowing you to control it from anywhere in the world.
+- Enjoy seamless mobile touch control for intuitive navigation.
 
 ## Usage
 
@@ -26,7 +53,13 @@ Unlock the potential of our 3D LED holographic display with these standout featu
 
 Simply, user can get creative and define their usage of the cube.
 
-___
+## Start Using
+
+- Our user manual can be found here. It will guide through the entire process of using the cube with integrated social media community and the web platform.
+
+## Getting Started with Development
+
+- We have attached our design manual here. Download and follow up the procedure.
 
 ### Contributors 
 - <a href = "https://github.com/Bambara123">Kavindu Bambaragama</a>
