@@ -169,3 +169,5 @@ while True:
 		#towerA.set_pattern(row)
 		#print(row)
 		time.sleep(0.0001)
+
+

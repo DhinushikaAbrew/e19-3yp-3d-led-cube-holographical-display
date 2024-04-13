@@ -4,7 +4,7 @@ import numpy as np
 current_file_path = os.path.abspath(__file__)
 map_file_path = os.path.join(os.path.dirname(current_file_path), 'map.txt')
 
-cube = []
+cube = [[] for _ in range(16)]
 
 with open(map_file_path, 'r') as file:
     layer = []
@@ -16,7 +16,6 @@ with open(map_file_path, 'r') as file:
             cube.append(layer)
             layer = []
 
-# Convert the cube to a 3D numpy array
-cube = np.array(cube)
+
 
 print(cube)
