@@ -3,8 +3,7 @@
   <h1 align="center">HoloCube</h1>
 </div>
 
-
-<h4 align="center"> 3D LED Holographic display 🏥 | MERN | 3D object vizualization + Maniopulation </h4>
+<h4 align="center"> 3D LED Holographic display | MERN | 3D object visualization + Manipulation </h4>
 
 <div align="center">
     <a href="https://github.com/bambara123/Food-Delivery-Website-Project-C0226/issues">
@@ -21,23 +20,25 @@
     </a>
 </div>
 
-
 ## 📜 Table of Content
 
 <ol style="list-style-type: decimal;">
-  <li><a href="#introduction">Introduction</a></li>
-  <li><a href="#features">Features</a></li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#getting-started">Getting Started</a></li>
-  <li><a href="#start-using">Start Using</a></li>
-  <li><a href="#contributors">Contributors</a></li>
+  <li><a href="#1-introduction">Introduction</a></li>
+  <li><a href="#2-features">Features</a></li>
+  <li><a href="#3-usage">Usage</a></li>
+  <li><a href="#4-solution-architecture">Solution Architecture</a></li>
+  <li><a href="#5-start-using">Start Using</a></li>
+  <li><a href="#6-getting-started-with-development">Getting Started with Development</a></li>
+  <li><a href="#7-contributors">Contributors</a></li>
 </ol>
 
-## Introduction
+## <a id="1-introduction"></a>🚀 Introduction
 
-Experience the future of interactive entertainment with our 3D LED Holographic Display. This innovative device goes beyond traditional displays, offering users the ability to showcase 3D Objects, Engaging Animations and Simple Games. Users can join our collaborative platform and connect, share their creativity, and get inspired by others. Users hold the reins, deciding how to wield the cube's versatile display.
+- Experience the future of interactive entertainment with our 3D LED Holographic Display. This innovative device goes beyond traditional displays, offering users the ability to showcase 3D Objects, Engaging Animations and Simple Games. Users can join our collaborative platform and connect, share their creativity, and get inspired by others. Users hold the reins, deciding how to wield the cube's versatile display.
+- You can get a clear idea using this [YouTube video](https://www.youtube.com/watch?v=jm4SAxpjhGo&t).
 
-## Features
+## <a id="2-features"></a>🌟 Features
+
 Unlock the potential of our 3D LED holographic display with these standout features:
 
 - Effortlessly showcase your chosen 3D object files, transforming them into captivating visual experiences.
@@ -45,7 +46,7 @@ Unlock the potential of our 3D LED holographic display with these standout featu
 - Immerse yourself in inbuilt interactive games for a dynamic and engaging experience.
 - Enjoy seamless mobile touch control for intuitive navigation.
 
-## Usage
+## <a id="3-usage"></a>🔧 Usage
 
 - <b>Interactive entertainment device with exchange Hub:</b>  Basically, an interactive entertainment device which comes with touch control. Users can engage with our collaborative platform, sharing 3D files, animations, and Cube tips. Inspire and be inspired by diverse use cases, fostering a dynamic community of creativity.
 - <b>Versatile Social Impact:</b>  Elevate gatherings, interiors, logos, and events dynamically with mesmerizing displays. Let the device transform social settings with its captivating and interactive features.
@@ -53,25 +54,29 @@ Unlock the potential of our 3D LED holographic display with these standout featu
 
 Simply, user can get creative and define their usage of the cube.
 
-## Start Using
+## <a id="4-solution-architecture"></a>🏗️ Solution Architecture
+
+This is the high level overview of the system.
+<br></br>
+<p><img src="docs/images/solution.png" alt="Solution_Archi"></p>
+
+## <a id="5-start-using"></a>🎉 Start Using
 
 - Our user manual can be found here. It will guide through the entire process of using the cube with integrated social media community and the web platform.
 
-## Getting Started with Development
+## <a id="6-getting-started-with-development"></a>🛠️ Getting Started with Development
 
-- We have attached our design manual here. Download and follow up the procedure.
+-  The project consist of both hardware and software parts, so we have created our design manual to make it feasible for whoever decide to implement.
+-  We have attached our design manual here. Download and follow up the procedure.
 
-### Contributors 
+## <a id="7-contributors"></a>👥 Contributors 
+
 - <a href = "https://github.com/Bambara123">Kavindu Bambaragama</a>
 - <a href = "https://github.com/Madhushanka00">Mahesha Madhushanka</a>
 - <a href = "https://github.com/DhinushikaAbrew">Dhinushika Abrew</a>
 - <a href = "https://github.com/uthsaraiw">Uthsara Wickramaarachchi</a>
 - <a href = "https://github.com/Bambara123">Sapuni Witharana</a>
 
-<p>Check our <a href = "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display/"> project page</a> here.</p>
+---
 
-
-
-
-
-
+<p>Check our <a href = "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display/"> project page</a> for more details.</p>
