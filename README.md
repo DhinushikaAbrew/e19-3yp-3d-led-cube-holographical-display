@@ -35,7 +35,11 @@
 
 ## Introduction
 
-Experience the future of interactive entertainment with our 3D LED Holographic Display. This innovative device goes beyond traditional displays, offering users the ability to showcase 3D Objects, Engaging Animations and Simple Games. Users can join our collaborative platform and connect, share their creativity, and get inspired by others. Users hold the reins, deciding how to wield the cube's versatile display.
+- Experience the future of interactive entertainment with our 3D LED Holographic Display. This innovative device goes beyond traditional displays, offering users the ability to showcase 3D Objects, Engaging Animations and Simple Games. Users can join our collaborative platform and connect, share their creativity, and get inspired by others. Users hold the reins, deciding how to wield the cube's versatile display.
+- You can get clear idea using this video.
+
+[![Watch the video](https://img.youtube.com/vi/jm4SAxpjhGo/maxresdefault.jpg)](https://www.youtube.com/watch?v=jm4SAxpjhGo&t=199s)
+
 
 ## Features
 Unlock the potential of our 3D LED holographic display with these standout features:
@@ -53,9 +57,17 @@ Unlock the potential of our 3D LED holographic display with these standout featu
 
 Simply, user can get creative and define their usage of the cube.
 
+
+<h2 id="solution-architecture">🏗️ Solution Architecture</h2>
+This is the high level overview of the system.
+<br></br>
+<p><img src="docs/images/solution.png" alt="Solution_Archi"></p>
+
+
 ## Start Using
 
 - Our user manual can be found here. It will guide through the entire process of using the cube with integrated social media community and the web platform.
+
 
 ## Getting Started with Development
 
